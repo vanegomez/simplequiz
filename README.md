@@ -1,4 +1,4 @@
 # SimpleQuiz
 A quiz made in JavaScript
 
-http://vanegomez.github.io/simplequiz/
+[Take the quiz](http://vanegomez.github.io/simplequiz/)
